@@ -2,6 +2,18 @@
 
 A comprehensive attendance system using face recognition with Flask AI backend, Java Spring Boot API, and web frontend.
 
+---
+## UI of the Project
+<img width="998" height="528" alt="image" src="https://github.com/user-attachments/assets/e6bf3b1e-dd34-4b78-b9b0-ed8e50d0aaf9" />
+
+<img width="976" height="480" alt="image" src="https://github.com/user-attachments/assets/ee096846-a96f-4105-9b64-46e991ae0360" />
+
+<img width="1000" height="499" alt="image" src="https://github.com/user-attachments/assets/7ce90b95-31d8-4827-ab72-3342231b574a" />
+
+<img width="975" height="485" alt="image" src="https://github.com/user-attachments/assets/8e3455c4-6597-48a0-9a07-9d0c0a33e1c5" />
+
+<img width="1001" height="498" alt="image" src="https://github.com/user-attachments/assets/13895cb5-e467-4bf5-9da7-b774e8b48878" />
+
 ## Project Architecture
 
 ```
@@ -424,20 +436,3 @@ Password: Student@123
 - Use HTTPS in production
 - Implement rate limiting for APIs
 - Validate all input data
-
----
-## UI of the Project
-<img width="998" height="528" alt="image" src="https://github.com/user-attachments/assets/e6bf3b1e-dd34-4b78-b9b0-ed8e50d0aaf9" />
-
-<img width="976" height="480" alt="image" src="https://github.com/user-attachments/assets/ee096846-a96f-4105-9b64-46e991ae0360" />
-
-<img width="975" height="485" alt="image" src="https://github.com/user-attachments/assets/dbaa1672-fff3-4c9e-820d-3c5bebe36bc4" />
-
-<img width="1000" height="499" alt="image" src="https://github.com/user-attachments/assets/7ce90b95-31d8-4827-ab72-3342231b574a" />
-
-<img width="975" height="485" alt="image" src="https://github.com/user-attachments/assets/8e3455c4-6597-48a0-9a07-9d0c0a33e1c5" />
-
-<img width="1001" height="498" alt="image" src="https://github.com/user-attachments/assets/13895cb5-e467-4bf5-9da7-b774e8b48878" />
-
-
-
